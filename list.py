@@ -1,2 +1,3 @@
 event = []
-time = []
+stime = []
+ftime = []
