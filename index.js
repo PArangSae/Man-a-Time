@@ -4,4 +4,6 @@ print("")
 print("")
 print("Man-a-Time, Manage your time")
 import("list.py")
-import("button.html")
+import("addton.html")
+
+import("seeton.html")
