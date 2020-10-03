@@ -1,2 +1,10 @@
 # Man-a-Time
-Manage your time. 당신의 시간을 관리하세요.
+
+
+한국어
+--
+당신의 시간을 관리하세요.
+
+English
+--
+Manage your time.
